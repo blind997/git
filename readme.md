@@ -1,3 +1,3 @@
 adding from 2
-welcom to gti
+to git
 hello
